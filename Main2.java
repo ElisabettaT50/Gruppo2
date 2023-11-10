@@ -7,6 +7,7 @@ public class Main2 {
         nomeCognomeStudenti[2] = "Mattia Lattanzio";
         nomeCognomeStudenti[3] = "Samira Saud";
         nomeCognomeStudenti[4] = "Elian Bertola";
+        nomeCognomeStudenti[5] = "Ana Balasa";
 
 
         for (int i = 0; i < nomeCognomeStudenti.length; i++) {
