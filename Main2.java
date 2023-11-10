@@ -4,5 +4,6 @@ public class Main2 {
     }
 
     String[1] = "Antonio Taminto";
+    String[2] = "Mattia Lattanzio";
 
 }
