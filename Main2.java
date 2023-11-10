@@ -7,10 +7,11 @@ public class Main2 {
         String[2] = "Mattia Lattanzio";
         String[3] = "Samira Saud";
         String[4] = "Elian Bertola";
-    }
 
-    for(int i = 0; i < String.length; i++){
-        System.out.println(nomeCognomeStudenti[i]);
+
+        for (int i = 0; i < String.length; i++) {
+            System.out.println(nomeCognomeStudenti[i]);
+        }
     }
 }
 
