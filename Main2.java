@@ -4,7 +4,7 @@ public class Main2 {
 
         nomeCognomeStudenti[0] = "Elisabetta Tacconelli";
         nomeCognomeStudenti[1] = "Antonio Taminto 04/06/1998";
-        nomeCognomeStudenti[2] = "Mattia Lattanzio";
+        nomeCognomeStudenti[2] = "Mattia Lattanzio 08/01/1996";
         nomeCognomeStudenti[3] = "Samira Saud";
         nomeCognomeStudenti[4] = "Elian Bertola";
         nomeCognomeStudenti[5] = "Ana Balasa 28/09/1997";
