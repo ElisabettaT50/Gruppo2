@@ -3,7 +3,7 @@ public class Main2 {
         String[] nomeCognomeStudenti = new String[6];
 
         nomeCognomeStudenti[0] = "Elisabetta Tacconelli";
-        nomeCognomeStudenti[1] = "Antonio Taminto";
+        nomeCognomeStudenti[1] = "Antonio Taminto 04/06/1998";
         nomeCognomeStudenti[2] = "Mattia Lattanzio";
         nomeCognomeStudenti[3] = "Samira Saud";
         nomeCognomeStudenti[4] = "Elian Bertola";
