@@ -10,7 +10,6 @@ public class Main2 {
         nomeCognomeStudenti[5] = "Ana Balasa 28/09/1997";
         nomeCognomeStudenti[6] = "test";
 
-
         for (int i = 0; i < nomeCognomeStudenti.length; i++) {
             System.out.println(nomeCognomeStudenti[i]);
         }
