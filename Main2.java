@@ -2,7 +2,7 @@ public class Main2 {
     public static void main(String[] args) {
         String[] nomeCognomeStudenti = new String[6];
 
-        nomeCognomeStudenti[0] = "Elisabetta Tacconelli 25/04/1993";
+        nomeCognomeStudenti[0] = "Elisabetta Tacconelli 25/04/1993  ";
         nomeCognomeStudenti[1] = "Antonio Taminto 04/06/1998";
         nomeCognomeStudenti[2] = "Mattia Lattanzio 08/01/1996";
         nomeCognomeStudenti[3] = "Samira Saud  20/07/1995";
